@@ -1,0 +1,7 @@
+-cs gen
+-lib HUGS
+-main HaxeScript
+-cp src
+-D no-compilation
+-D haxe3
+-net-lib "F:\Program Files\Unity\2018.2.0f2\Editor\Data\Managed\UnityEngine.dll"

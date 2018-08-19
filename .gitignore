@@ -334,3 +334,6 @@ UnityInOtherLanguages/Library
 UnityInOtherLanguages/Temp
 UnityInOtherLanguages/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll
 
+# Haxe
+UnityInOtherLanguages/Assets/Scripts/Haxe/gen/hxcs_build.txt
+UnityInOtherLanguages/Assets/Scripts/Haxe/gen/src
