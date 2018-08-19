@@ -1,0 +1,7 @@
+﻿@ref 'C:\Users\DeflatedPickle\.nuget\packages\unityengine5\5.5.0\lib\net35\UnityEngine.dll'
+
+use UnityEngine
+
+class CobraScript inherits MonoBehaviour
+	def start
+		Debug.log("Starting from Cobra!")

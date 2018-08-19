@@ -1,0 +1,1 @@
+cobra -target:lib CobraScript.cobra

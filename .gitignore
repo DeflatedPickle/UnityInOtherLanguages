@@ -337,3 +337,7 @@ UnityInOtherLanguages/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Edit
 # Haxe
 UnityInOtherLanguages/Assets/Scripts/Haxe/gen/hxcs_build.txt
 UnityInOtherLanguages/Assets/Scripts/Haxe/gen/src
+
+# Cobra
+UnityInOtherLanguages/Assets/Scripts/Cobra/CobraScript.dll
+UnityInOtherLanguages/Assets/Scripts/Cobra/CobraScript.dll.mdb
